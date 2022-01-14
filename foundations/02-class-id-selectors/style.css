@@ -1,0 +1,23 @@
+.num135 {
+    background-color: salmon;
+    color: black;
+}
+
+#num1, #num5 {
+    font-size: medium;
+}
+
+#num3 {
+    font-size: larger;
+}
+
+#num4 {
+    background-color: green;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#num2 {
+    font-size: x-large;
+    color: blue;
+}
